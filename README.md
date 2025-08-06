@@ -1,5 +1,5 @@
 # c
-Rewriting classic CLI utils to improve my C programming.
+Rewriting classic CLI utils to improve my C programming. Inspired by [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/).
 
 # rules
 - no AI, we are doing this the old fashioned way
