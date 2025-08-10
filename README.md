@@ -10,5 +10,9 @@ Rewriting classic CLI utils to improve my C programming. Inspired by [OSTEP](htt
 - once initial idea is in place, go through man page and implement all subcommands + flags
 
 # utils
-- [ ] cat
-- [ ] grep
+- [-] cat
+    - flags
+        - [-] n
+    - redo
+        - [ ] use getline function instead of a predefined buffer size
+- [-] grep
