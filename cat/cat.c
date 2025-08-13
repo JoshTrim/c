@@ -44,6 +44,8 @@ int main(int argc, char *argv[]) {
     case 'n':
       mode.numbered = true;
       break;
+    default:
+      fprintf(stderr, "Usage: %s [-n] [file...\n", argv[0]);
     }
   }
   int i;
